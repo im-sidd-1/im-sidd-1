@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Siddhant Gupta
+# Hi there, I'm Siddhant Gupta
 
 ### Electrical and Computer Engineering Student | Aspiring Software Engineer
 
